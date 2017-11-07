@@ -1,0 +1,39 @@
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\bin\Debug\Examen.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\bin\Debug\Examen.exe
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\bin\Debug\Examen.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.Form1.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.exe
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.Registro.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.FrmArticulo.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.Principal.resources
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\obj\Debug\Examen.Form1.resources
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\obj\Debug\Examen.FrmArticulo.resources
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\obj\Debug\Examen.FrmCompra.resources
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\obj\Debug\Examen.Principal.resources
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\obj\Debug\Examen.Registro.resources
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.Cache
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\Kevin Arias\Dropbox\U.T.N\VI Cuatrimestre\ISW-1\examenISW\Examen\Examen\obj\Debug\Examen.pdb
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\obj\Debug\Examen.Form1.resources
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\obj\Debug\Examen.FrmArticulo.resources
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\obj\Debug\Examen.FrmCompra.resources
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\obj\Debug\Examen.Principal.resources
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\obj\Debug\Examen.Registro.resources
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.Cache
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\roke1\Desktop\Utn\6 Cuatri\Examen\Examen\obj\Debug\Examen.pdb
